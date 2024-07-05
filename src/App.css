@@ -1,0 +1,84 @@
+
+body{
+  background: linear-gradient(135deg,  #B58DED);
+  height: 100vh;
+  width: 100%;
+  text-shadow: #B58DED;
+  text-wrap:wrap;
+  text-align: calc();
+  align-content: center;
+    height: 100vh;
+}
+
+
+h1{
+  font-family: 'Segoe UI', bold;
+  font-size: 35px;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+.login-container {
+  height: 40vh;
+  background: url('https://media.istockphoto.com/id/1276950886/photo/little-cat.webp?b=1&s=170667a&w=0&k=20&c=LFygQNOk9qbWB33WOcf7dsGAdJiST6yY7qN5958W2BM=') no-repeat center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* form{
+  display: inline-block;
+  align-items: center;
+  height: 270px;
+  width: 350px; 
+  margin-bottom: 170px;
+}
+.text_area{
+  align-content: center;
+  border-radius: 22px;
+  margin-bottom: 35px;
+  width: 100%;
+  height: 64px;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2), 0 0 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text_input{
+  margin-top: 1.2rem;
+  font-family: 'Montserrat regular';
+  font-size: 20px;
+  border: none;
+  width: 80%;
+}
+
+.btn{
+  margin-top: 28px;
+  width: 165px;
+  height: 60px;
+  border-radius: 30px;
+  background: #B58DED;
+  border: none;
+  font-family: 'Montserrat';
+  font-size: 20px;
+  color: #FFFFFF;
+  box-shadow: 0 4px 8px 0 rgba(181, 141, 237, 0.7), 0 6px 20px 0 rgba(181, 141, 237, 0.9);
+  cursor: pointer;
+}
+
+.login{
+  display: inline-block;
+  background: #FFFFFF;
+  width: 434px;
+  height: 700px;
+  margin-top: 10%;
+  border-radius: 22px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.link{
+  color: #0E4579;
+  font-family: 'Montserrat light';
+  font-size: 18px;
+  cursor: pointer;
+  display: block;
+  text-decoration: none;
+} */
